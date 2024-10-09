@@ -1,0 +1,63 @@
+.subscribe{
+  background-color: red;
+  height: 36px;
+  width: 105px;
+  color: white;
+  margin-right: 8px;
+  border-radius: 2px;
+  border: none;
+  cursor: pointer;
+  transition: 1s;
+}
+.join{
+  background-color: white;
+  padding: 4px;
+  margin: 5px;
+  color: blue;
+  cursor: pointer;
+  border: 2px;
+  border-radius: 4px;
+  font-weight: bold;
+  border-color: blue;
+}
+.tweet{
+  background-color: #1DA1F2;
+  height: 36px;
+  width: 100px;
+  color: white;
+  margin-left: 7px;
+  border-radius: 18px;
+  border: none;
+  cursor: pointer;
+}
+.uber{
+  background-color: black;
+  width: 105px;
+  height: 36px;
+  color: white;
+  border-radius: 2px;
+  border-color: white;
+  border-width: 5px;
+  cursor: pointer;
+
+}
+.amazon{
+  background-color: rgb(238, 197, 122);
+  height: 36px;
+  width: 105px;
+  border-radius: 18px;
+  border-width: 5px;
+  cursor: pointer;
+  border-color: white;
+
+}
+.bootstrap, .bootstrapd{
+  background-color: blueviolet;
+  height: 36;
+  width: 105;
+  border-radius: 2px;
+
+}
+.subscribe:hover{
+  opacity: 0.8;
+}
